@@ -10,7 +10,7 @@
 
 ![mobile_view_1](https://github.com/ddepu11/simple__navbar/blob/master/snapshots/mobile_1.png)
 
-![mobile_view_1](https://github.com/ddepu11/simple__navbar/blob/master/snapshots/mobile_1.png)
+![mobile_view_1](https://github.com/ddepu11/simple__navbar/blob/master/snapshots/mobile_2.png)
 
 ## 2. Desktop view
 
