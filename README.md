@@ -1,4 +1,4 @@
-# Simple Responive navbar
+# Simple Responsive navbar
 
 ### Made this project using HTML/CSS and Vanila Javascript No Faramwork used.
 
